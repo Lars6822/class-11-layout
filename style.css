@@ -1,0 +1,204 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar {
+    display: flex !important;
+    justify-content: space-between  !important;
+    background-color:orange !important;
+}
+.btn{
+    background-color: white;
+}
+.navbar-brand{
+    color: white  !important;
+    font-weight: bold !important;
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-shadow: 2px 3px 4px black;
+}
+.fff{
+    color: white !important;
+    font-size: 30px;
+    align-items: center !important;
+    text-decoration: none;
+    padding-left: 30px;
+    text-shadow: 2px 3px 4px black;
+}
+.flix{
+    margin: -10px;
+    color: red !important;
+    display: inline;
+}
+.aaa{
+    color: white !important;
+    font-size: 30px;
+    align-items: center !important;
+    text-decoration: none;
+    padding-left: 40px;
+    text-shadow: 2px 3px 4px black;
+}
+.up{
+    color: white !important;
+    font-size: 30px;
+    align-items: center !important;
+    text-decoration: none;
+    padding-left: 40px;
+    text-shadow: 2px 3px 4px black;
+}
+.dropdown-menu{
+    color: white !important;
+}
+.label{
+    font-size: 30px !important;
+    text-shadow: 2px 3px 4px black;
+}
+.para{
+    font-size: 17px;
+    text-shadow: 2px 3px 4px black;
+}
+.maincard{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cardo{
+    display: flex;
+    align-items: center !important;
+    width: 20%;
+    height: 100px;
+    background-color: white;
+    box-shadow: 2px 4px 5px black;
+    margin: 10px;
+    padding-left: 40px;
+    position: relative;
+    left: 40px;
+}
+.free{
+    font-weight: bold;
+    padding-left: 10px;
+}
+.freeo{
+    font-weight: bold;
+}
+.freet{
+    font-weight: bold;
+}
+.cardt{
+    display: flex;
+    align-items: center !important;
+    width: 20%;
+    height: 100px;
+    background-color: white;
+    box-shadow: 2px 4px 5px black;
+    margin: 10px;
+    padding-left: 40px;
+    position: relative;
+    left: 240px;
+}
+.cardth{
+    display: flex;
+    align-items: center !important;
+    width: 20%;
+    height: 100px;
+    background-color: white;
+    box-shadow: 2px 4px 5px black;
+    margin: 10px;
+    padding-left: 40px;
+    margin-left: 450px;
+}
+.mainitems{
+    display: flex !important;
+    padding-left: 80px;
+}
+.cardeee{
+    box-shadow: 2px 4px 5px black;
+    margin-top: 10px;
+}
+.btn-primary{
+    background-color: blue;
+}
+.cardqqq{
+    margin-top: 10px;
+    padding-left: 30px;
+    box-shadow: 2px 4px 5px black;
+}
+.cardtittleo{
+    margin-top: 25px;
+}
+.cardggg{
+    margin-top: 10px;
+    padding-left: 30px;
+    box-shadow: 2px 4px 5px black;
+}
+.cardtitlet{
+    margin-top: 25px;
+}
+.cardhhh{
+    margin-top: 10px;
+    padding-left: 30px;
+    box-shadow: 2px 4px 5px black;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+    .cardo,.cardt,.cardth {
+      width: 100%;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
